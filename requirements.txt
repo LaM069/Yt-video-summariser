@@ -1,0 +1,6 @@
+streamlit
+youtube_transcript_api
+langchain
+langchain-ollama
+langchain_community
+ollama
